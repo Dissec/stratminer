@@ -1,0 +1,5 @@
+task.spawn(loadstring(game:HttpGet("https://raw.githubusercontent.com/jvjoaocafe/stratfinder/main/aiming.lua", true)))
+wait(.1)
+task.spawn(loadstring(game:HttpGet("https://raw.githubusercontent.com/jvjoaocafe/stratfinder/main/recognizing.lua", true)))
+wait(.1)
+task.spawn(loadstring(game:HttpGet("https://raw.githubusercontent.com/jvjoaocafe/stratfinder/main/toggles.lua", true)))

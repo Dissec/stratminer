@@ -31,5 +31,5 @@ function auto()
     end
     wait()
 end
-print("recognizer loaded.")
 auto()
+print("recognizer loaded.")
